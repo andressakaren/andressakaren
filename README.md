@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Andressa Karen 👋
 
 Apaixonada por tecnologia, estou me encantando cada vez mais pelo Front-end <img height="20" align="justify" style="border-radius: 6px;" src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg"> <img height="20" style="border-radius: 6px;" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg"> <img height="20" style="border-radius: 6px;" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg">  e viciei no DraculaTheme <img height="20" src="https://draculatheme.com/images/shop/dracula-stickers-1.png">. 
-</br>Nas horas vagas jogo League of Legends e trabalho com engenharia civil.
+</br>Nas horas vagas, jogo League of Legends e trabalho com engenharia civil.
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)

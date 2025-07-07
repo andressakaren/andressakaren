@@ -1,7 +1,6 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF79C6&random=false&width=435&lines=Ol%C3%A1!+Eu+sou+a+Andressa+Karen+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-Apaixonada por tecnologia, estou me encantando cada vez mais pelo Front-end <img height="20" align="justify" style="border-radius: 6px;" src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg"> <img height="20" style="border-radius: 6px;" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg"> <img height="20" style="border-radius: 6px;" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg">  e viciei no DraculaTheme <img height="20" src="https://draculatheme.com/images/shop/dracula-stickers-1.png">. 
-</br>Nas horas vagas, jogo League of Legends e trabalho com engenharia civil.
+
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andressa-karen)
